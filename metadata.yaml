@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '39456'
     url: http://www.gutenberg.org/2009/agents/39456
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38415#Gas-Engines-and-Producer-Gas-Plants--13-A-Practice-Treatise-Setting-Forth-the-Principles-of-G_
 gutenberg_issued: '2011-12-26'
 gutenberg_type: Text
 identifiers:
