@@ -1,0 +1,45 @@
+_repo: Gas-Engines-and-Producer-Gas-Plants--13-A-Practice-Treatise-Setting-Forth-the-Principles-of-G__38415
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Clerk, Dugald, Sir
+    birthdate: 1854
+    deathdate: 1932
+    gutenberg_agent_id: '42035'
+    url: http://www.gutenberg.org/2009/agents/42035
+  translator:
+    agent_name: Kaempffert, Waldemar
+    alias: Kaempffert, Waldemar Bernhard
+    birthdate: 1877
+    deathdate: 1956
+    gutenberg_agent_id: '39458'
+    url: http://www.gutenberg.org/2009/agents/39458
+    wikipedia: http://en.wikipedia.org/wiki/Waldemar_Kaempffert
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mathot, Rodolphe Edgard
+    alias: Mathot, R. E.
+    birthdate: 1866
+    gutenberg_agent_id: '39456'
+    url: http://www.gutenberg.org/2009/agents/39456
+description: ''
+gutenberg_issued: '2011-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38415'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TJ'
+- !lcsh 'Internal combustion engines'
+title: "Gas-Engines and Producer-Gas Plants\r\nA Practice Treatise Setting Forth the\
+  \ Principles of Gas-Engines and Producer Design, the Selection and Installation\
+  \ of an Engine, Conditions of Perfect Operation, Producer-Gas Engines and Their\
+  \ Possibilities, the Care of Gas-Engines and Producer-Gas Plants, with a Chapter\
+  \ on Volatile Hydrocarbon and Oil Engines"
+url: http://www.gutenberg.org/ebooks/38415
